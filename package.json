@@ -13,7 +13,7 @@
   "homepage": "http://www.ember-power-select.com",
   "repository": {
     "type": "git",
-    "url": "http://github.com/cibernox/ember-power-select.git"
+    "url": "http://github.com/egistix/ember-power-select.git"
   },
   "license": "MIT",
   "author": {
